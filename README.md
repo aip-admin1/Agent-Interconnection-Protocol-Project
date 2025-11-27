@@ -34,22 +34,22 @@
 
 智能体协作协议体系（Agent Collaboration Protocols，ACPs）是为保障异构智能体之间高效协作、支持多样化智能体互联应用而设计的标准化通信与交互协议体系与上图中实体属性和实体间接口序号对应，ACPs 中定义了如下规范和协议：
 
-(1)[智能体身份码（Agent Identity Code，AIC）规范](https://atomgit.com/aip/aip/blob/master/01/ACPs-spec-AIC.md)
+(1)[智能体身份码（Agent Identity Code，AIC）规范](01/ACPs-spec-AIC.md)
 
-(2)[智能体能力描述（Agent Capability Specification，ACS）规范](https://atomgit.com/aip/aip/blob/master/02/ACPs-spec-ACS.md)
+(2)[智能体能力描述（Agent Capability Specification，ACS）规范](02/ACPs-spec-ACS.md)
 
-(3)[智能体可信注册（Agent Trusted Registration，ATR）规范](https://atomgit.com/aip/aip/blob/master/03/ACPs-spec-ATR.md)
+(3)[智能体可信注册（Agent Trusted Registration，ATR）规范](03/ACPs-spec-ATR.md)
 
-(4)[智能体身份认证（Agent Identity Authentication，AIA）规范](https://atomgit.com/aip/aip/blob/master/04/ACPs-spec-AIA.md)
+(4)[智能体身份认证（Agent Identity Authentication，AIA）规范](04/ACPs-spec-AIA.md)
 
-(5)[智能体发现协议（Agent Discovery Protocol，ADP）规范](https://atomgit.com/aip/aip/blob/master/05/ACPs-spec-ADP.md)
+(5)[智能体发现协议（Agent Discovery Protocol，ADP）规范](05/ACPs-spec-ADP.md)
 
-(6)[智能体交互协议（Agent Interaction Protocol，AIP）规范](https://atomgit.com/aip/aip/blob/master/06/ACPs-spec-AIP.md)
+(6)[智能体交互协议（Agent Interaction Protocol，AIP）规范](06/ACPs-spec-AIP.md)
 
-(7)[发现与注册数据同步（Discovery and Registration Coordination，DRC）规范](https://atomgit.com/aip/aip/blob/master/07/ACPs-spec-DRC.md)
+(7)[发现与注册数据同步（Discovery and Registration Coordination，DRC）规范](07/ACPs-spec-DRC.md)
 
 # 5. demo使用
-为了您快速体验本协议族，我们提供了一个demo，其代码仓库位于 [ACPs-Demo-Project](https://atomgit.com/aip/ACPs-Demo-Project),在这里我们提供了能快速体验demo的流程。
+为了您快速体验本协议族，我们提供了一个demo，其代码仓库位于 [ACPs-Demo-Project](https://github.com/aip-admin1/ACPs-Demo-Project),在这里我们提供了能快速体验demo的流程。
 
 # 6. 补充说明
 
@@ -57,4 +57,4 @@
 
 # 附件
 
-[智能体互联核心概念](https://atomgit.com/aip/aip/blob/master/Guide/CoreConcepts.md)   
+[智能体互联核心概念](Guide/CoreConcepts.md)   
